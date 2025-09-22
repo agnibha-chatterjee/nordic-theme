@@ -589,8 +589,13 @@
 
     "statusBar.foreground": "#fffafa",
     "statusBar.background": "#242933",
+    "statusBar.noFolderBackground": "#242933",
+    "statusBar.debuggingBackground": "#242933",
+    "statusBar.noFolderForeground": "#fffafa",
+    "statusBar.debuggingForeground": "#fffafa",
     "statusBar.border": "#3c4454c0",
-    "statusBarItem.hoverBackground": "#d08770",
+    "statusBar.noFolderBorder": "#3c4454c0",
+    "statusBar.debuggingBorder": "#3c4454c0",
 
     "titleBar.activeBackground": "#242933",
     "titleBar.activeForeground": "#dbdbdb",
