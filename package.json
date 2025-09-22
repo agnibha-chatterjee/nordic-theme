@@ -1,0 +1,32 @@
+{
+  "name": "nordic",
+  "displayName": "Nordic Theme",
+  "description": "A dark and frosty color theme inspired by AlexvZyl's 🌒 Nordic theme!",
+  "version": "1.0.0",
+  "publisher": "agnibha-chatterjee",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agnibha-chatterjee/nordic-theme.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "nord",
+    "nordic"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nordic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nordic-theme.json"
+      }
+    ]
+  }
+}
